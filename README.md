@@ -29,10 +29,8 @@ Passionate about crafting intuitive, visually appealing apps with Flutter and de
 🔗 [Live Demo](https://your-live-demo-link.com) | 📂 [GitHub Repo](https://github.com/yourusername/anime-hub)
 
 ---
-
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?yasa_samir=yourusername&show_icons=true&theme=radical)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ---
 
 ## 📫 Let's Connect!
